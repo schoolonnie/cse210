@@ -1,3 +1,4 @@
+//For full credit I added a multiple possible scriptures that the user can generate randomly from a preset list.
 using System;
 
 class Program
